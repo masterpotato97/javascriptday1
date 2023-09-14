@@ -15,7 +15,7 @@ function findWords(string, names) {
     
     // If no matches were found, print "No Matches"
     console.log("No Matches");
-}
+
 
 // Call the function with the provided parameters
 findWords(dog_string, dog_names);
